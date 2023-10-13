@@ -1,14 +1,12 @@
-## Data Science Workflows Using Docker Containers
+##  ОбработкКА данных с использованием контейнеров Docker
 
-### Description
+### Описание
 
-Jupyter notebooks make it easy to create reproducible workflows that can be distributed across groups and organizations. This is a simple process provided that our end-users have access to the data along with a compatible Python environment. Learn how to use Docker to package a shareable image containing the libraries, code, and data required to reproduce every calculation.
+Блокноты Jupyter позволяют легко создавать воспроизводимые рабочие процессы, которые можно распределять между группами и организациями. Это простой процесс при условии, что наши конечные пользователи имеют доступ к данным вместе с совместимой средой Python. Узнайте, как использовать Docker для упаковки общего образа, содержащего библиотеки, код и данные, необходимые для воспроизведения каждого вычисления.
 
-### Docker
+### Докер
 
-Containerization technologies such as Docker enable software to run across various computing environments. Data Science requires auditable workflows where we can easily share and reproduce results. Docker is a useful tool that we can use to package libraries, code, and data into a single image.
+Технологии контейнеризации, такие как Docker, позволяют программному обеспечению работать в различных вычислительных средах. Наука о данных требует проверяемых рабочих процессов, позволяющих легко обмениваться результатами и воспроизводить их. Docker — полезный инструмент, который мы можем использовать для упаковки библиотек, кода и данных в один образ.
 
-This tutorial will cover the basics of Docker; discuss how containers fit into Data Science workflows; and provide a quick-start guide that can be used as a template to create a shareable Docker image!
-Learn how to leverage the power of Docker without having to worry about the underlying details of the technology. 
-
-Will be creating a blog post for the same step by step procedure.
+Будут рассмотрены основы Docker; как контейнеры вписываются в рабочие процессы Data Science; представлено краткое руководство, которое можно использовать в качестве шаблона для создания общего образа Docker!
+Узнайте, как использовать возможности Docker, не беспокоясь об основных деталях технологии.
