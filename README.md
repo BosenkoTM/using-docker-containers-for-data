@@ -26,26 +26,36 @@
 | 8    | 8  |
 | 9    | 9  |
 | 10   | 10  |
+| 11   | 11  |
+| 12   | 12  |
+| 13   | 13  |
+| 14   | 14  |
+| 15   | 15  |
+| 16   | 16  |
+| 17   | 17  |
+| 18   | 18  |
+| 19   | 19  |
+| 20   | 20  |
 
 Датасет извлечь по средством API Kuggle:
 
 1. Medical Cost Personal Datasets.
-Open Food Facts.
-Machine Learning & Data Science Survey.
-Survival Rate of Russian Companies.
-Yandex: Geo Reviews Dataset 2023.
-Yandex Music TOP 100 songs.
-HeadHunter vacancies.
-Russian Marketplace Reviews E-Commerce Dataset.
-world economic.
-credit card transicts.
-Real-world IoT data for environmental analysis.
-Multilabel car and color dataset.
-Superstore Dataset.
-Sentiment Analysis Data.
-California Housing with name of Counties.
-Email Thread Summary Dataset.
-Global Surface Temperatures.
-Bank and Credit Card Complaints.
-Medical Staff People Tracking.
-NEW BITCOIN DataSet for the 2023!
+2. Open Food Facts.
+3. Machine Learning & Data Science Survey.
+4. Survival Rate of Russian Companies.
+5. Yandex: Geo Reviews Dataset 2023.
+6. Yandex Music TOP 100 songs.
+7. HeadHunter vacancies.
+8. Russian Marketplace Reviews E-Commerce Dataset.
+9. world economic.
+10. credit card transicts.
+11. Real-world IoT data for environmental analysis.
+12. Multilabel car and color dataset.
+13. Superstore Dataset.
+14. Sentiment Analysis Data.
+15. California Housing with name of Counties.
+16. Email Thread Summary Dataset.
+17. Global Surface Temperatures.
+18. Bank and Credit Card Complaints.
+19. Medical Staff People Tracking.
+20 NEW BITCOIN DataSet for the 2023!
