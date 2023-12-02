@@ -37,7 +37,7 @@
 | 19   | 19  |
 | 20   | 20  |
 
-Датасет извлечь по средством API Kuggle:
+Датасет извлечь по средством [API Kuggle](https://colab.research.google.com/drive/1DofKEdQYaXmDWBzuResXWWvxhLgDeVyl):
 
 1. Medical Cost Personal Datasets.
 2. Open Food Facts.
@@ -58,4 +58,4 @@
 17. Global Surface Temperatures.
 18. Bank and Credit Card Complaints.
 19. Medical Staff People Tracking.
-20 NEW BITCOIN DataSet for the 2023!
+20. NEW BITCOIN DataSet for the 2023!
